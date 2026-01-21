@@ -1,13 +1,14 @@
 {
-  "name": "disable-movement-history",
-  "title": "Disable Token Movement History",
-  "description": "Disables token movement history recording.",
-  "version": "1.0.0",
-  "minimumCoreVersion": "11",
-  "compatibleCoreVersion": "11",
+  "id": "disable-movement-history",
+  "title": "Disable Movement History",
+  "description": "Simple Module that disables the movement history feature of Core Foundry v13.",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.348"
+  },
   "authors": [
     {
-      "name": "Your Name"
+      "name": "Kayzio"
     }
   ],
   "esmodules": ["scripts/module.js"]
