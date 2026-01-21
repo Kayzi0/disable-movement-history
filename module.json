@@ -13,5 +13,5 @@
     }
   ],
   "esmodules": ["scripts/module.js"],
-  "download": "https://github.com/Kayzi0/disable-movement-history/releases/tag/Test"
+  "manifest": "https://raw.githubusercontent.com/Kayzi0/disable-movement-history/refs/heads/main/module.json"
 }
