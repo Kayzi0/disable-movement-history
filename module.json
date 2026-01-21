@@ -1,0 +1,18 @@
+{
+  "id": "hide-movement-history",
+  "title": "Hide Movement History",
+  "description": "A small module to hide movement history. Based on a script by Discord user hi25114",
+  "authors": [
+    {
+    "name": "Kayzio"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "esmodules": [
+    "scripts/module.js"
+  ]
+}
