@@ -12,5 +12,6 @@
       "name": "Kayzio"
     }
   ],
-  "esmodules": ["scripts/module.js"]
+  "esmodules": ["scripts/module.js"],
+  "download": "https://github.com/Kayzi0/disable-movement-history/releases/tag/Test"
 }
